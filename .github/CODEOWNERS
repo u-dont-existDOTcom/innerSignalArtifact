@@ -1,0 +1,11 @@
+# Default owner
+* @u-dont-existDOTcom
+
+# Artifact provenance, release, checksums, and automation
+/.github/ @u-dont-existDOTcom
+/AGENTS.md @u-dont-existDOTcom
+/README.md @u-dont-existDOTcom
+/releases/ @u-dont-existDOTcom
+/artifacts/ @u-dont-existDOTcom
+/manifests/ @u-dont-existDOTcom
+/checksums/ @u-dont-existDOTcom
