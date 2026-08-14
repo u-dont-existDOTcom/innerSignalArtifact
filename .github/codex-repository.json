@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "repository_kind": "artifact",
+  "active": false,
+  "long_running": false,
+  "visibility": "private",
+  "risk": "high",
+  "commands": {},
+  "current_state": null,
+  "github_controls": {
+    "default_branch_rules": "not_applicable",
+    "secret_scanning": "unverified",
+    "push_protection": "unverified",
+    "code_scanning": "not_applicable"
+  },
+  "audit_note": "Before activating this repository, add a README and AGENTS.md that distinguish generated artifacts from canonical source, record source commit/version/hashes, and prohibit manual edits to generated deliverables."
+}
