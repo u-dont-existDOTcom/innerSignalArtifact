@@ -1,9 +1,20 @@
-# Universal Project Bootstrap
+# Inner Signal Artifact
 
-Before substantive work, read `u-dont-existDOTcom/universal-dev-architecture/LESSON-INDEX.md` and the relevant current universal patterns. Current owner instructions and verified project state override universal guidance.
+## Authority
 
-Treat chat context as temporary working memory and keep durable project state in Git. For long-running or multi-session work, maintain a concise current-state checkpoint with the goal, active decisions/constraints, completed work, current step, remaining work, blockers, relevant artifacts/commits, and next safe action.
+Read `README.md` and `CURRENT-STATE.md` first. Current Inner Signal development and release authority is `u-dont-existDOTcom/innerSignalGraph`.
 
-After interruption, a new thread, context compaction, or model switch, inspect actual repository state first, reconcile the checkpoint, identify what survived, and resume from the latest verified durable boundary without repeating completed work.
+## Validation
 
-Follow the current universal lesson-closeout pattern for substantive work.
+This repository has no executable gate because it is an empty incubator.
+
+## Workflow
+
+Use pull requests. Define a distinct repository purpose and validation before adding substantive content.
+
+## Code review rules
+
+- Keep the repository's role distinct from `innerSignalGraph`.
+- Treat verified current project state as newer than artifact snapshots.
+
+Treat chat as temporary working memory.
